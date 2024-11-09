@@ -1,0 +1,12 @@
+{
+  "id": "capn-proto",
+  "version": "0.0.1",
+  "name": "capn-proto",
+  "documentationURL": "https://github.com/Loag/capnproto-feature",
+  "description": "Installs capnproto on debian based systems",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
